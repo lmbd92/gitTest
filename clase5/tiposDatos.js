@@ -52,5 +52,4 @@ const matrizB = [
 const resultado = matrizMultiplicacion(matrizA, matrizB);
 console.log(resultado);
 
-
-
+console.log("Hola mundo");
