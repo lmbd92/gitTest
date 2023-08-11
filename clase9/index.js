@@ -8,3 +8,6 @@ function factorial(numero) {
 num = parseInt(prompt("ingrese el numero a calcular"));
 let resultado = factorial(num);
 console.log(resultado);
+
+
+console.log("Hola mundo")
