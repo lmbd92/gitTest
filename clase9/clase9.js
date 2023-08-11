@@ -1,18 +1,19 @@
-console.log(a);
+console.log(a)
 
 let a = 10,
   b = 20,
-  c = "hola",
-  d = "spiderMan",
-  x = a + b;
+  c = 'hola',
+  d = 'spiderMan',
+  x = a + b
 
-const saludo = c + d;
+const saludo = c + d
 
-c = "Hola de nuevo";
+c = 'Hola de nuevo'
 
-console.log({ a });
-console.table({ a, b, saludo });
+console.log({ a })
+console.table({ a, b, saludo })
 
-var miVariable = "Una Variable";
+var miVariable = 'Una Variable'
 
-console.log(miVariable);
+console.log(miVariable)
+console.log('Hola Mundo')
