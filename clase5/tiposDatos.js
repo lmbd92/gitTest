@@ -16,7 +16,6 @@ let object = {
 
 console.log(typeof array);
 
-
 function matrizMultiplicacion(matrizA, matrizB) {
   const filasA = matrizA.length;
   const columnasA = matrizA[0].length;
@@ -53,3 +52,4 @@ const resultado = matrizMultiplicacion(matrizA, matrizB);
 console.log(resultado);
 
 console.log("Hola mundo");
+console.log("Hola mundo2");
