@@ -29,3 +29,4 @@ console.log(
 console.log(
   `La factura ${factura2.numFactura} está en divisa ${factura2.divisa} y tiene un total de ${factura2.total}`
 );
+ console.log("hola mundo");
